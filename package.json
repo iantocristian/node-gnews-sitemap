@@ -1,0 +1,30 @@
+{
+    "name": "gnews-sitemap",
+    "version": "0.0.1",
+    "description": "Google News Sitemap generator. ",
+    "homepage": "http://github.com/iantocristian/node-gnews-sitemap",
+    "author": "Cristian Ianto <iantocristian@yahoo.com>",
+    "contributors": [
+        "Cristian Ianto <iantocristian@yahoo.com>"
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "http://github.com/iantocristian/node-gnews-sitemap"
+    },
+    "bugs":
+    {
+        "mail": "iantocristian@yahoo.com",
+        "url": "http://github.com/iantocristian/node-gnews-sitemap"
+    },
+    "dependencies":
+    {
+        "xml": ">= 0.0.4"
+    },
+    "main": "index.js",
+    "engines": { "node": ">=0.4.0" },
+    "licenses" :
+    [
+        { "type" : "MIT", "url" : "http://github.com/iantocristian/node-gnews-sitemap/raw/master/LICENSE" }
+    ]
+}
